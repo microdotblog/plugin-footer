@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "title": "Custom footer",
+  "description": "Edit the custom footer HTML for your blog.",
+  "fields": [
+    {
+      "field": "params.custom_footer",
+      "label": "Footer",
+      "type": "markdown"
+    }
+}
